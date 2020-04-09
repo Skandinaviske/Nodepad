@@ -36,5 +36,4 @@ The user of our application could be able to:
 
 # Author
 
-Zefan Liang (300075131).
-Yuxiao Che  (300075102).
+Ailwyn
